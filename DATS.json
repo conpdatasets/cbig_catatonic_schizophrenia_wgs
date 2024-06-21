@@ -139,6 +139,14 @@
         }
       ]
     },
+	{
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.png"
+        }
+      ]
+    },
     {
       "category": "REB_statement",
       "values": [
